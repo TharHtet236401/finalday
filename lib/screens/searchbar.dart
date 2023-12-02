@@ -297,24 +297,24 @@ class SearchResultsListView extends StatelessWidget {
                                           courseTitle: index == 0
                                               ? 'Python Basics'
                                               : index == 1
-                                              ? 'Teaching Strategies'
+                                              ? 'How to Teach'
                                               : index == 2
-                                              ? 'Java Fundamentals'
+                                              ? 'Java Basics'
                                               : index == 3
-                                              ? 'JavaScript Mastery'
+                                              ? 'JavaScript Basics'
                                               : index == 4
-                                              ? 'Vue.js Essentials'
+                                              ? 'Vue.js Basics'
                                               : index == 5
                                               ? 'HTML 5 '
                                               : index == 6
-                                              ? 'CSS Styling'
+                                              ? 'CSS Basics'
                                               : index == 7
                                               ? 'PHP Web Dev'
                                               : index ==
                                               8
-                                              ? 'Ruby Programming'
+                                              ? 'Ruby Basics'
                                               : index == 9
-                                              ? 'React for Beginners'
+                                              ? 'React Basics'
                                               : 'Default Title',
                                           authorName: 'Author Name',
                                           imageAssetPath:
@@ -416,24 +416,24 @@ class SearchResultsListView extends StatelessWidget {
                                           courseTitle: index == 0
                                               ? 'Python Basics'
                                               : index == 1
-                                              ? 'Teaching Strategies'
+                                              ? 'How to Teach'
                                               : index == 2
-                                              ? 'Java Fundamentals'
+                                              ? 'Java Basics'
                                               : index == 3
-                                              ? 'JavaScript Mastery'
+                                              ? 'JavaScript Basics'
                                               : index == 4
-                                              ? 'Vue.js Essentials'
+                                              ? 'Vue.js Basics'
                                               : index == 5
-                                              ? 'HTML 5'
+                                              ? 'HTML 5 '
                                               : index == 6
-                                              ? 'CSS Styling'
+                                              ? 'CSS Basics'
                                               : index == 7
                                               ? 'PHP Web Dev'
                                               : index ==
                                               8
-                                              ? 'Ruby Programming'
+                                              ? 'Ruby Basics'
                                               : index == 9
-                                              ? 'React for Beginners'
+                                              ? 'React Basics'
                                               : 'Default Title',
                                           authorName: 'Author Name',
                                           imageAssetPath:
