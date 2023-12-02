@@ -1,0 +1,96 @@
+[
+    {
+        "title": "Java Programming",
+        "urlImage":
+        "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png",
+        "autocompleteTerm" : "Java Programming"
+    }, 
+
+    {
+        "title": "Website Development",
+        "urlImage":
+        "https://img.freepik.com/free-photo/person-front-computer-working-html_23-2150040428.jpg",
+        "autocompleteTerm" : "Website Development"
+  
+    }, 
+
+    {
+        "title": "C++",
+        "urlImage":
+        "https://img.freepik.com/premium-photo/programming-code-abstract-technology-background_272306-158.jpg",
+        "autocompleteTerm" : "C++"
+  
+    }, 
+
+    {
+        "title": "Python",
+        "urlImage":
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/640px-Python.svg.png",
+        "autocompleteTerm" : "Python"
+  
+    }, 
+
+
+    {
+        "title": "Arts",
+        "urlImage":
+        "https://img.freepik.com/free-photo/woman-art-school-wearing-apron-drawing-easel_1157-46856.jpg",
+        "autocompleteTerm" : "Arts"
+  
+    }, 
+
+
+    {
+        "title": "Mobile Development",
+        "urlImage":
+        "https://img.freepik.com/premium-vector/man-with-laptop-application-development-illustration-ui-ux-designer-mobile-apps-developer-vector-flat-design-background_128772-1254.jpg",
+        "autocompleteTerm" : "Mobile Development"
+  
+    }, 
+
+
+    {
+        "title": "UI/UX",
+        "urlImage":
+        "https://img.freepik.com/free-vector/mobile-ui-ux-concept-illustration_114360-11697.jpg",
+        "autocompleteTerm" : "UI/UX"
+  
+    }, 
+
+
+    {
+        "title": "Music",
+        "urlImage":
+        "https://img.freepik.com/free-photo/woman-playing-guitar-home-during-quarantine_23-2149374507.jpg",
+        "autocompleteTerm" : "Music"
+  
+    }, 
+
+
+    {
+        "title": "Business",
+        "urlImage":
+        "https://img.freepik.com/premium-photo/group-young-asian-business-team-creative-businesspeople-coworker-office-meeting-presentation-analysis-graph-company-financial_533890-2561.jpg",
+        "autocompleteTerm" : "Business"
+  
+    }, 
+
+
+    {
+        "title": "Laravel",
+        "urlImage":
+        "https://www.e-spincorp.com/wp-content/uploads/2020/06/laravel-php-framework.jpg",
+        "autocompleteTerm" : "Laravel"
+  
+    }, 
+
+
+    {
+        "title": "Marketing",
+        "urlImage":
+        "https://img.freepik.com/free-photo/man-suit-standing-office-with-clipboard-pointing-poster-with-words_1098-17121.jpg",
+        "autocompleteTerm" : "Marketing"
+  
+    }
+
+]
