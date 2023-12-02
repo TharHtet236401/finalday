@@ -3,14 +3,14 @@
         "title": "Java Programming",
         "urlImage":
         "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png",
-        "autocompleteTerm" : "Java Programming"
+        "autocompleteTerm" : "Java "
     }, 
 
     {
         "title": "Website Development",
         "urlImage":
         "https://img.freepik.com/free-photo/person-front-computer-working-html_23-2150040428.jpg",
-        "autocompleteTerm" : "Website Development"
+        "autocompleteTerm" : "Website "
   
     }, 
 
@@ -44,7 +44,7 @@
         "title": "Mobile Development",
         "urlImage":
         "https://img.freepik.com/premium-vector/man-with-laptop-application-development-illustration-ui-ux-designer-mobile-apps-developer-vector-flat-design-background_128772-1254.jpg",
-        "autocompleteTerm" : "Mobile Development"
+        "autocompleteTerm" : "Mobile "
   
     }, 
 
